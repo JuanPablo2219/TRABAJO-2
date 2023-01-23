@@ -1,4 +1,4 @@
-let nums=[69,80,70];
+let nums=[69,80,70,50];
 
 for(let i = 0; i < nums.length; i++) {
     if(nums[i] >= 70){
